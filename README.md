@@ -36,8 +36,7 @@ This repository contains Jupyter Notebook programs implementing various machine 
 
    ```bash
    git clone https://github.com/Sumanth007/ML.git
-
-
+   ```
 2.Install Jupyter Notebook:
 
    ```
@@ -46,8 +45,5 @@ This repository contains Jupyter Notebook programs implementing various machine 
 
 3.Navigate to the cloned repository and start Jupyter Notebook:
 
-```
-##         OR 
-```
 
-##You can directly run this using Anaconda Navigator
+## You can directly run this using Anaconda Navigator
