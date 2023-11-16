@@ -37,9 +37,10 @@ This repository contains Jupyter Notebook programs implementing various machine 
    ```bash
    git clone https://github.com/Sumanth007/ML.git
    ```
+
 2.Install Jupyter Notebook:
 
-   ```
+   ```python
    pip install jupyter
    ```
 
